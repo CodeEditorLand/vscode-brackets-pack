@@ -2,10 +2,10 @@
 	"description": "Popular Brackets features as extensions for VS Code.",
 	"displayName": "Brackets Extension Pack",
 	"extensionPack": [
-		"ms-vscode.brackets-keybindings",
-		"ritwickdey.LiveServer",
 		"Zignd.html-css-class-completion",
-		"pranaygp.vscode-css-peek"
+		"ms-vscode.brackets-keybindings",
+		"pranaygp.vscode-css-peek",
+		"ritwickdey.LiveServer"
 	],
 	"icon": "brackets-logo.png",
 	"name": "brackets-pack"
